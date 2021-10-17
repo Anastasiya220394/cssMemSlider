@@ -108,7 +108,7 @@
    }
    .slider {
       width: 80%;
-      height: 23rem;
+      height: 22.4rem;
    }
    .navigation {
       margin: 5% auto;
@@ -116,9 +116,13 @@
       margin-top: 5%;
    }
    p {
-      margin-top: 23%;
+      margin-top: 22%;
       width: 100%;
       margin-left: 3%;
       font-size: 1rem;
+   }
+   .bar {
+      width: 1.5rem;
+      margin: 2%;
    }
 }
